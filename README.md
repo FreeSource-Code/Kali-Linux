@@ -29,3 +29,11 @@ It is perfect for **students, beginners and cyber security learners**.
 | Metasploit | Exploitation framework |
 
 ---
+
+## 🖥️ Requirements
+
+- Kali Linux (VMware / VirtualBox)
+- Basic Linux command knowledge
+- Internet connection
+
+---
