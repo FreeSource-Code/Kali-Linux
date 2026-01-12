@@ -11,3 +11,6 @@ This repository contains step-by-step guides, commands, tools and practice notes
 - Bug bounty hunting  
 - Website security testing  
 - Network & web penetration testing  
+It is perfect for **students, beginners and cyber security learners**.
+
+---
