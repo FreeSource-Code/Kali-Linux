@@ -37,3 +37,14 @@ It is perfect for **students, beginners and cyber security learners**.
 - Internet connection
 
 ---
+📂 Project Structure
+```
+Kali-Lab/
+│── notes/
+│── tools/
+│── scripts/
+│── reports/
+│── labs/
+│── README.md
+
+```
